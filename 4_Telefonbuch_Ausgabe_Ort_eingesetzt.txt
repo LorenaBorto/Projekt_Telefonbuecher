@@ -1,0 +1,129 @@
+Nachname;Vorname;Beruf;Strasse;Ort;Telefonnummer
+van;Wijhe;Wünsche;216  022 van Wijhe M. Mlle 3 av. Dumas;Genève;400 17
+Wiki;B.;Dr prof. Univers.;2 pl. Reverdin;Genève;478 26
+Wilczek;V.;;12 q. G.-Ador;Genève;49210
+Wild;N.;(-Leuba) M. et Mme;25 r. Lefort;Genève;4 47 56
+Wild;R.;(-Clarisse) stoppage;6 r. Vieux Collège 5053;Genève;
+W.;12;;r. Verdaine;Genève;50537
+Wildberger;Eug.;bouch.;1 r. Vignier 4207.;Genève;
+Wildi;E.;tournage sur bois;17 r. L;Genève;52331
+Wildi;J.;(-Hänny) Mme;6 r. Eaux-Vives;Genève;499 87
+Wilka;Watch;Co S.A.;40 r. St-Jean;Genève;292 00
+WIII;A.;draperie en gros;68 r. Rhône Arthur 14 q. G.-Ador Willat R. 19 r. H.-Mussard 4382;Genève;
+Wille;J.;(-Bortkiewicz) Mme;3 ch. Escalade;Genève;4 0075
+Ls;7;;ch. Pléiades;Genève;4 49 54
+Ls;Ls(-Revol);;8 av. France Willemin Chs 96 Servette;Genève;222 46
+Ls;avoc,;étude;13 r. Céard;Genève;462 45
+Appart.;Sentier;;Roseraie;Genève;427 45
+Willems;E.;;8 r. St-Léger;Genève;4 44 74
+William's;coiff.;;14 Chêne-Bougeries;Genève;4 60 64
+Williams;P.;;Mills Mme Le Refrain Haute Belotte;Genève;821 44
+Williams;F.-D.;;59 r. Pâquis — J. Miss 2 r. A.-Vincent;Genève;22048
+N.;Miss;;25 q. Mt-Blanc;Genève;292 49
+Williamson;E.-M.;;42 ch. Moillebeau;Genève;238 89
+Williamson;M.-S.;SDN;5 pl. Taconnerie 4863;Genève;
+Willimann;confis.;;28 bd G.-Favon;Genève;40757
+Willy;E.;Mlle;99 bd C.-Vogt 447 Wilmot E. 18 r. H.-Mussard 572 Wilner M. épic.-prim. 4 r. Voltaire;Genève;22417
+;;;;Genève;2 29 15
+Wilson;J.-V.;;56 ch. Alre Winckler V.-Ph. relieur 40 r. Bains;Genève;51848
+Winiger;Chs;entrepr. électr.;12 r Conseil Général;Genève;43820
+Winkelmann;E.;boul.;44 r. Caroline;Genève;458 90
+Winkler;Mme;pens.-famille;43 a et rte Chêne;Genève;52508
+G.;Mlle;couture;30 r. Voltaire;Genève;276 02
+G;V.;Mlle;25 r. P.-Fatio;Genève;472 92
+Winsor;M.-L.;Mlle;44 r. Pâquis Winteregg V. (-Landry) abat-jour jours mach. 32 r. Deux Ponts;Genève;53825
+Winterhalter;A.;serrur.;14 r. Rovera 451 8.;Genève;
+Appart.;3;;Cours Rive;Genève;418 96
+Winterthour;Sté;Suisse d'Assur. contre les accid. Robert Meyer agt gén.;11 r. Général-Dufour;Genève;48288
+Sté;Suisse;d’Assur. contre les accid. E. Audé agce princ.;23 r. Rhône;Genève;5 4370
+Winterthur;Sté;assur. vie et rentes via¬ gères Ls Grillet agt gén.;1 r. Made¬ leine;Genève;42637
+-Vie;Assur.;popul.;0. Hagger 1 r. Madeleine Wipili J. épic.-lait. charcut. 2 r. Lilas;Genève;2 94 35
+Wirrer;A.;;mécan, ch. Quene d'Arve;Genève;4 0430
+Wirth;Ern.;;La Réserve rest. Tea Roon au bord du Lac Bellerive rive gauche;Genève;8 20 55
+Hri;gyps.-peint.;;61 av. Bel-Air Chêne-Boura;Genève;400 37
+J.;10;;ch. Mt-Blanc Chéne-Boug R. verres de montres 30 r. Stand;Genève;490 45
+W.;café;;rest. crém. Confignon;Genève;8 70 06
+W;&;Cie représ, montres Longines;14 pl. Fusterie;Genève;401 45
+Appart.;M.;;Ch. Wirth Genthod;Genève;8 40 45
+Wirz;A.;Pens. England;2 ch. Roches;Genève;53877
+-Wirz;W.;S.A.;32 Gd-Cuai;Genève;47979
+Wisler;I.;;Mlle garde-malade dipl.;Genève;52150
+21;r.;;Violette Wismer E. (-Streiff) prof. 8 ch. Pare Montalègre Cologny;Genève;53786
+J.;administr.;postal appart.;24 a r Bourgogne;Genève;27831
+2;97;;46 Wisniewski md taill. dames et mess.;Genève;
+51;r.;;Lausanne;Genève;2 86 63
+Wisser;E.;pâtiss.-confis.;18 r. Alpes Wissmer A. Dr méd.-chir.-dent. cab.;Genève;47044
+1;r.;;Fontaine Appart. 15 r. Contamines;Genève;4 86 97
+L.;(-Imbert);Mme;10 av. Bosquets;Genève;239 05
+Wist;L.;;4 r. Daubin;Genève;2 94 83
+Wiswald;Fern.;direct. Etl. Arpic SA;14 av. L.-Gaud 402 Henry 1 Tour de l'Ile;Genève;45738
+En;éte;;Les Embruns Bellerive;Genève;821 66
+Witkowskl;S.;ing. bur. techn. Stewit;2-12 av. J.-Martin Chêne-Bougeries;Genève;
+;;;;Genève;51125
+Witschi;Lydla;;6 r. Céard;Genève;408 47
+Wittekopi;Chs;passement. Tour de l'Ile World's Y.W.C.A.;52 r. Pâquis q. Moulins 2219.;Genève;
+Wittekopf;Chs;bur. de gros fabr.;28 q St-Jean 2219;Genève;
+(En;cas;;abs. appel appart.;Genève;2 25 74
+Chs;(-Debrot);appart.;2 av. Warens;Genève;22574
+Chs;F.;;67 av. Wendt;Genève;23126
+Witteveen;MZN;Mlle;4 av. Bland 33 4;Genève;
+;;;;Genève;54 82
+Wittmann;F.;;10 av. Wendt Wittnauer & Cie horlog.-bijout. 4 r. Mt-Blanc;Genève;230 46
+Wittwer;Annemarie;;11 av. M.-Monnier;Genève;409 64
+Witz;M.;Mme tabacs;17 r. Pâquis 5597;Genève;
+2;93;;26 Witzig Ed. 8 r. Léman;Genève;
+;;;;Genève;248 18
+W.;ing.;;30 ch. Nant d’Argent Ruth Cologny;Genève;82342
+Wixler;Bert’y;;19 bd Helvétique;Genève;50374
+Wohlers;Ed.-G.;;exp.-compt. avoc.;Genève;4 1 3574
+Petitot;Appart.;;94 rte Chêne 5306;Genève;
+Ed.;père;;94 rte Chêne 5174;Genève;
+Hri;Dr-méd.;;11 bis r. Tœppfer. Re çoit tous les jours de 13 à 15 h. e sur rendez-vous jeudi excepté;Genève;4 20 55
+En;été;;6 ch. Colombe Conches;Genève;475 36
+(En;cas;abs.;5 04 00);Genève;
+4;54;;45 Wohlgemuth S. (-Duverney) 29 av.;Genève;
+Champel;;;;Genève;41976
+Wohlschlag;G.;papiers peints désinf. peint.;4 r. Corps-Saints;Genève;227 66
+Hrl;repr.;;72 rte Malagnon;Genève;4 81 30
+Wohlwerth;Ch.;pharm.;1 r. Eaux-Vives;Genève;512 45
+Wohnlich;Ad.;(-Schaub) v. Les Char¬ mettes ch. Vert Pré Pt-Lanci;;9164;
+Aug.;ing.;chef serv. voie;0 4 r. Château;Genève;256 49
+Wolber;A.;pneumat.;14 r. Diorama;Genève;47150
+Woll;Chs;fabr. bouchons;18 r. A.-Vin¬ cent;Genève;2 49 46
+Woll;Chs;appart.;17 r. Plantamour;Genève;26833
+Chs;serv.;feu;29 bis A r. Lausanne;Genève;27276
+Julienne;merc.;;10 r. Carouge;Genève;41434
+Julienne;P.;;69 ch. Gradelle Chène-Bougeries;Genève;40871
+P.;&;Cle représ. comm. et techn.;6 r. Rôtisserie;Genève;40984
+Wilh.;charcut.;;8 r. Winkelried (ap¬ part. même numéro);Genève;2 2833
+Wolfgang;H.;;2 pl. Reverdin;Genève;4 47 08
+J.;diamants;et perles fines;6 Grenade 271 J. bur. diamants perles et pierres fi¬ nes 5 r. Rhône;Genève;53904
+2;56;;50 Wolhauser Fs. 1 r. Muller-Brun;Genève;
+;;;;Genève;428 66
+Woller;Alex.;ing.;41 r. Synagoque;Genève;49582
+Woodbury;R.;;107 r. Lausann;Genève;
+2654;;;;Genève;
+Woodley;F.;;7 ch. Chevillarde;Genève;4 07 19
+Woodsmall;R.-F.;;12 rte Malagnou;Genève;52448
+Woodward;Gladys;;4 r. St-Laurent;Genève;458 47
+Worch;Edgar;;7 av. G.-Vallette;Genève;51416
+World;Alliance;for Int. Friendship thr. Churches;41 av, Champel 5453.;Genève;
+;;;;Genève;2 60 93
+Wörtmann;F.;Dr Ing.;4 r. Dentand 2773.;Genève;
+4804;;;;Genève;
+Wou;S.;;15 r. Contamines Woudstra J. 7 ch. Riou;Genève;49129
+Wright;C.-L.;Major;12 ch. Genêts Pt¬ Saconnex;Genève;258 05
+Wrong;H.;Dél. perm. Canada près SDN;45 ter rte Florissant;Genève;47410
+Wuarin;A.;café de la Monnaie;1 r. Commerce 3707;Genève;
+Alb.;Mme;;14 av. J.-Martin Chêne¬ Bougeries;Genève;41949
+Alb;Alb.;et Jean Dr en droit avoc.;53 r. Stand;Genève;458 97
+Appart.;MM.;;A. et J. Wuarin;Genève;419 49
+;;;;Genève;22057
+Appart.;M.;L. Lapierre M. (-Bornet) Mme;32 ch. Fossard;Genève;4 8773
+Wuhrmann;Hrl;;49 av. Wendt;Genève;2 24 47
+Wuhrmann;J.;;ch. Pommière Chêne-Bougeries;Genève;5 1089
+Wulllemin;J.;;hortic. Chambésy;Genève;28761
+Wulllemin;-Wolhauser;;café de l'Usine Chè¬ vres Vernier;Genève;87148
+de;Wuilleret;M. reliure et dorure;1 pl Longemalle Wullschleger Rose coiff. 26 av Champel;Genève;49035
+Wunenburger;A.;;(-Rousset,;Genève;50458
+Ls-Curval;E.;appart.;6 bd Tour;Genève;47882
